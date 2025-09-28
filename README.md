@@ -69,7 +69,3 @@ Find more projects in my [repositories](https://github.com/cryvch?tab=repositori
 ### Hire Me
 
 I provide professional UX and web design services. Payment accepted in cryptocurrency only. Let’s build something exceptional together—contact via social links above.
-
----
-
-#### Keywords: UX Designer, Frontend Engineer, Web Design, React Specialist, Crypto Web Services, Tailwind CSS, Three.JS, Responsive Websites, SEO Web Design, Crypto Payments
