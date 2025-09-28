@@ -55,7 +55,8 @@ Find more projects in my [repositories](https://github.com/cryvch?tab=repositori
 - [YouTube](https://www.youtube.com/@cryvch)
 - [X (Twitter)](https://x.com/cryvch)
 - [Instagram](https://www.instagram.com/cryvch0/)
-- OGUsers: ZachJ
+- [OGUsers](https://oguser.com/zachj)
+- [Web Development Services Thread](https://oguser.com/Thread-Service-Full-Stack-Developer-UX-Driven-Fast-Secure-Builds-FAST-DELIVERY)
 
 **Crypto Donations**
 
